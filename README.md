@@ -1,6 +1,3 @@
-Based on my analysis of your iOS-AWS-Amplify-App codebase, here is a comprehensive README:
-
-```markdown
 # iOS AWS Amplify App
 
 > A cloud-native, offline-first iOS application showcasing real-time GraphQL data synchronization with AWS Amplify.
@@ -340,14 +337,9 @@ Amplify.Logging.logLevel = .verbose
 - [ ] Backup/restore procedures
 - [ ] CloudWatch dashboards for monitoring
 
-## License
-
-Copyright © 2020. All rights reserved.
-
 ## Resources
 
 - [AWS Amplify iOS Documentation](https://docs.amplify.aws/lib/q/platform-ios/)
 - [AppSync Documentation](https://docs.aws.amazon.com/appsync/)
 - [GraphQL Code Generator](https://docs.amplify.aws/cli/graphql/codegen/)
 - [SwiftUI Combine Integration](https://developer.apple.com/documentation/swui/combining)
-```
